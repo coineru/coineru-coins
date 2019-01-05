@@ -3,7 +3,7 @@ const { MAX_UINT256, MIN_INT256, MAX_INT256 } = require('./helpers/constants');
 
 const SafeMathMock = artifacts.require('SafeMathMock');
 
-const { BigNumber } = require('../helpers/setup');
+const { BigNumber } = require('./helpers/setup');
 
 contract('SafeMath', function () {
   beforeEach(async function () {

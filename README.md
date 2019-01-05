@@ -11,6 +11,6 @@ Code was written using various standards. Following software-specific standrads 
 # Truffle and Solidity versions
 
 Current project was developed using following versions:
->Truffle `v5.0.1 (core: 5.0.1)`  
->Solidity `v0.5.0 (solc-js)`  
+>Truffle `v4.1.15` (core: 4.1.15)
+>Solidity `v0.4.25` (solc-js)  
 >Node `v10.15.0`   

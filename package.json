@@ -23,10 +23,9 @@
   },
   "homepage": "https://github.com/mtxset/coineru#readme",
   "devDependencies": {
-    "bignumber.js": "^8.0.1",
-    "chai": "^4.2.0",
-    "chai-bignumber": "^3.0.0",
-    "truffle": "^5.0.1",
-    "web3-utils": "^1.0.0-beta.37"
+    "chai": "^4.1.2",
+    "chai-bignumber": "^2.0.2",
+    "truffle": "^4.1.13",
+    "web3-utils": "^1.0.0-beta.34"
   }
 }
