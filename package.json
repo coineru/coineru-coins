@@ -7,7 +7,10 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/truffle test",
+    "flatGold": "./node_modules/.bin/truffle-flattener ./contracts/CoineruGold.sol > ./contracts/full/ConeruGold.sol",
+    "flatSilver": "./node_modules/.bin/truffle-flattener ./contracts/CoineruSilver.sol > ./contracts/full/CoineruSilver.sol",
+    "build": "npm run flatGold && npm run flatSilver"
   },
   "repository": {
     "type": "git",
@@ -25,7 +28,10 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "chai-bignumber": "^2.0.2",
+    "pify": "^4.0.1",
+    "solidity-coverage": "^0.5.4",
     "truffle": "^4.1.13",
+    "truffle-flattener": "^1.2.10",
     "web3-utils": "^1.0.0-beta.34"
   }
 }

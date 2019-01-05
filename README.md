@@ -10,7 +10,17 @@ Code was written using various standards. Following software-specific standrads 
 
 # Truffle and Solidity versions
 
-Current project was developed using following versions:
->Truffle `v4.1.15` (core: 4.1.15)
+Current project was developed using following versions (or just read `package.json`):
+>Truffle `v4.1.15` (core: 4.1.15)  
 >Solidity `v0.4.25` (solc-js)  
 >Node `v10.15.0`   
+
+# Installation
+>1. Clone git repository  
+>2. Run: `npm install`
+
+# Tests
+>Run: `npm run test`
+
+# Build
+>Run: `npm run build`
