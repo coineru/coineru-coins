@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/mtxset/coineru#readme",
   "devDependencies": {
-    "truffle": "^5.0.1"
+    "bignumber.js": "^8.0.1",
+    "chai": "^4.2.0",
+    "chai-bignumber": "^3.0.0",
+    "truffle": "^5.0.1",
+    "web3-utils": "^1.0.0-beta.37"
   }
 }
