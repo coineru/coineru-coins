@@ -1,0 +1,28 @@
+{
+  "name": "coineru",
+  "version": "1.0.0",
+  "description": "Coineru Tokens",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtxset/coineru.git"
+  },
+  "keywords": [
+    "token"
+  ],
+  "author": "Romanas Litvinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtxset/coineru/issues"
+  },
+  "homepage": "https://github.com/mtxset/coineru#readme",
+  "devDependencies": {
+    "truffle": "^5.0.1"
+  }
+}
