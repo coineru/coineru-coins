@@ -1,15 +1,3 @@
-<style>
-ol {
-  counter-reset: item
-}
-li {
-  display: block
-}
-li:before {
-  content: counters(item, ".") ". ";
-  counter-increment: item
-}
-</style>
 <h3>
 <ol>
     <li><b><a href="#abstract">Abstract</b></a> </li>
