@@ -127,7 +127,7 @@ increases the supply of fiat money at will, the value will drop with no destinat
 abuse and miscalculation. That is why money supply today is a major topic for many governments
 who have employed quantitative easing policies in the past few years. Any misbehavior by the
 government or politicians could result in significant stress of the value of that currency.</p>
-<img src="ri_5.png" style="float:left;height:400px;margin-right:20px"></img>
+<img src="ri_5.png" style="float:left;height:400px;margin-right:20px">
 <p>
 According to the ​Institute of International Finance
 (IIF), in 2017 the global debt reached a huge
