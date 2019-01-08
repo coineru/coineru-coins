@@ -1,5 +1,7 @@
 # coineru Tokens
 
+# [Whitepaper](./whitepaper/whitepaper.md)
+
 # Standards
 
 Code was written using various standards. Following software-specific standrads and guidelines were used in this project:
