@@ -1,4 +1,4 @@
-# coineru Tokens
+# Coineru Coins
 
 >readme `v1.0`   
 >2019 01 08
