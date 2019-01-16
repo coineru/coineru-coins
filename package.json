@@ -10,7 +10,8 @@
     "test": "node_modules/.bin/truffle test",
     "flatGold": "./node_modules/.bin/truffle-flattener ./contracts/CoineruGold.sol > ./contracts/full/ConeruGold.sol",
     "flatSilver": "./node_modules/.bin/truffle-flattener ./contracts/CoineruSilver.sol > ./contracts/full/CoineruSilver.sol",
-    "build": "npm run flatGold && npm run flatSilver"
+    "flatPlat": "./node_modules/.bin/truffle-flattener ./contracts/CoineruPlatinum.sol > ./contracts/full/CoineruPlatinum.sol",
+    "build": "npm run flatGold && npm run flatSilver && npm run flatPlat"
   },
   "repository": {
     "type": "git",
